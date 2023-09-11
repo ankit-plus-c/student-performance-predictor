@@ -51,14 +51,6 @@ Dataset Source Link :
 5. Flask App creation :
    - Flask app is created with User Interface to predict the math score of a student given the required features inside a Web Application.
 
-# Exploratory Data Analysis Notebook
-
-Link : [EDA Notebook](./notebook/eda_on_data.ipynb)
-
-# Model Training Approach Notebook
-
-Link : [Model Training Notebook](./notebook/model_training.ipynb)
-
 # Usage:
 
 1. conda create -p std python=3.8 -y
